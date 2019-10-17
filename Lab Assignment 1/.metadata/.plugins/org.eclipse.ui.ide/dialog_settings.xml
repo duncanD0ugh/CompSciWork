@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\drago\Documents\University\Year 2\Semester 2\Software Testing\s3718718\ShoppingCardv2-junittest-wedthu\ShoppingCardv2\src"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\drago\Documents\University\Year 2\Semester 2\Software Testing\s3718718\ShoppingCardv2-junittest-wedthu\ShoppingCardv2"/>
+			<item value="C:\Users\drago\Documents\University\Year 2\Semester 2\Software Testing\ShoppingCardv2-junittest-wedthu"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

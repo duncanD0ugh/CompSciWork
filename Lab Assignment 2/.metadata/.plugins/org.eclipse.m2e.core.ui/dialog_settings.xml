@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\drago\Documents\University\Year 2\Semester 2\Software Testing\Lab Assignment 2\Selenium-assessment-basecode"/>
+			<item value="C:\Users\drago\Downloads\Selenium-assessment-basecode (1)\MavenSeleniumTest"/>
+			<item value="C:\Users\drago\Downloads\Selenium-assessment-basecode\MavenSeleniumTest"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
