@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="publicClasses.Products"/>
-    <fullyQualifiedTypeName name="publicClasses.Product"/>
-    <fullyQualifiedTypeName name="com.inflectra.spiratest.addons.junitextension.SpiraTestConfiguration"/>
-    <fullyQualifiedTypeName name="com.inflectra.spiratest.addons.junitextension.SpiraTestCase"/>
-    <fullyQualifiedTypeName name="org.junit.jupiter.api.Assertions"/>
-</qualifiedTypeNameHistroy>
