@@ -1,0 +1,13 @@
+id	optid	img	title	desc	option	price
+scar	BLUE	SCAR.png	SCAR	The gun for almost any situation. From gatekeeping the circle from a base, or laying seige to said base; this gun will give you the edge in battle.	BLUE	1.99
+scar	PURPLE	SCAR.png	SCAR	The gun for almost any situation. From gatekeeping the circle from a base, or laying seige to said base; this gun will give you the edge in battle.	PURPLE	1.99
+scar	GOLD	SCAR.png	SCAR	The gun for almost any situation. From gatekeeping the circle from a base, or laying seige to said base; this gun will give you the edge in battle.	GOLD	1.99
+pump	BLUE	PumpShotgun.png	PUMP	Best for those build battles and close quater combat. No need to continuously spray your enemies down; a single pump can do the trick.	BLUE	1.99
+pump	PURPLE	PumpShotgun.png	PUMP	Best for those build battles and close quater combat. No need to continuously spray your enemies down; a single pump can do the trick.	PURPLE	1.99
+pump	GOLD	PumpShotgun.png	PUMP	Best for those build battles and close quater combat. No need to continuously spray your enemies down; a single pump can do the trick.	GOLD	1.99
+sniper	BLUE	BoltAction.png	SNIPER	Take out enemies with a single shot from too far for them to hit back. Also the perfect gun to trick shot your foes. Mid-air, 360 or even no scope.	BLUE	1.99
+sniper	PURPLE	BoltAction.png	SNIPER	Take out enemies with a single shot from too far for them to hit back. Also the perfect gun to trick shot your foes. Mid-air, 360 or even no scope.	PURPLE	1.99
+sniper	GOLD	BoltAction.png	SNIPER	Take out enemies with a single shot from too far for them to hit back. Also the perfect gun to trick shot your foes. Mid-air, 360 or even no scope.	GOLD	1.99
+compact	BLUE	CompactGun.png	COMPACT	Mow down enemies and buildings in seconds. Watch as your continous spray destroys your enemies defences and chances of winning.	BLUE	1.99
+compact	PURPLE	CompactGun.png	COMPACT	Mow down enemies and buildings in seconds. Watch as your continous spray destroys your enemies defences and chances of winning.	PURPLE	1.99
+compact	GOLD	CompactGun.png	COMPACT	Mow down enemies and buildings in seconds. Watch as your continous spray destroys your enemies defences and chances of winning.	GOLD	1.99
