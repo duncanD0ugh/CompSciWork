@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\drago\Documents\University\Year 1\Semester 2\SoftwareArchDesignAndImplem\Eclipse\Assignment files\s3718718_A2.zip_expanded\CardGame\.metadata\.plugins\org.eclipse.jdt.core
+899953291.index
+2208220844.index
+1891178618.index
+4045524770.index
+3128209849.index
+2904472918.index
