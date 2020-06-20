@@ -5,4 +5,4 @@ Repository for course work
 
 ---Software Architecture: Design and Implementation---
 
-- 
+- - No tutorial or practical work of note
