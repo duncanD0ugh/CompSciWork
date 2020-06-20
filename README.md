@@ -5,4 +5,4 @@ Repository for course work
 
 ---Advanced Programming Techniques---
 
-- 
+- No tutorial or practical work of note
