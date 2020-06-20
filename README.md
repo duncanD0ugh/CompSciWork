@@ -3,6 +3,6 @@ Projects and assignments from my Bachelors of Computer Science (RMIT Melb AU)
 
 Repository for course work
 
----Practical Data Science with Python---
+---Professional Computing Practice---
 
-- No tutorial or practical work of note (All material covered in assignments)
+- Some practical sheets missing
