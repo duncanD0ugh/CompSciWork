@@ -5,4 +5,4 @@ Repository for course work
 
 ---Database Concepts---
 
-- 
+- - No tutorial or practical work of note
