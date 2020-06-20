@@ -1,6 +1,8 @@
 # CompSciWork
-Projects and assignments from my Bachelors of Computer Science (RMIT Melb AU), 2018 - 2020
-Name: Duncan Do
-Birth Date: 16-01-2000
-Student Number: s3718718
+Projects and assignments from my Bachelors of Computer Science (RMIT Melb AU)
 
+Repository for course work
+
+---Practical Data Science with Python---
+
+- No tutorial or practical work of note (All material covered in assignments)
