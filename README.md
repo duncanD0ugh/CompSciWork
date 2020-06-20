@@ -5,4 +5,4 @@ Repository for course work
 
 ---Security in Cpmuting & IT---
 
-- 
+- No tutorial or practical work of note
